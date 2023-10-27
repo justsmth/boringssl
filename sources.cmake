@@ -35,6 +35,7 @@ set(
   crypto/evp/scrypt_test.cc
   crypto/fipsmodule/aes/aes_test.cc
   crypto/fipsmodule/bn/bn_test.cc
+  crypto/fipsmodule/bn/bn_assert_test.cc
   crypto/fipsmodule/cmac/cmac_test.cc
   crypto/fipsmodule/ec/ec_test.cc
   crypto/fipsmodule/ec/p256-nistz_test.cc
